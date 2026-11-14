@@ -4,7 +4,7 @@
 ## Identitas Mahasiswa
 - Nama: Aswad
 - NIM: D0224020
-- Kelas: Informatika B
+- Kelas: C
 - Mata Kuliah: Komputasi Paralel dan Sistem Terdistribusi
 
 ## 1. Deskripsi Proyek
